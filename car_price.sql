@@ -1,0 +1,1 @@
+SELECT * FROM 365_database.car_prices;
